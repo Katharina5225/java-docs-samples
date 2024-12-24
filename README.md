@@ -9,7 +9,7 @@ Check out the `README.md` in one of the following directories to get started:
 
 ## Contributing
 
-Contributions welcome! See the [Contributing Guide](CONTRIBUTING.md).
+Contributions welcome! See 
 
 [ga]: https://developers.google.com/analytics
 
